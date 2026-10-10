@@ -30,10 +30,6 @@ Mahasiswa Informatika dari Indonesia yang suka membangun aplikasi web dan belaja
 
 </div>
 
-### 🚀 Proyek Unggulan
-
-**[metode-penelitian](https://github.com/gvhaidar-bot/metode-penelitian)** — Sistem Pendukung Keputusan Pemilihan Karier Mahasiswa Informatika menggunakan *Content-Based Filtering* dan *SAW*, dibangun dengan React + FastAPI + PostgreSQL.
-
 ---
 
 <div align="center">
