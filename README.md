@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Halo%2C+saya+Haidar+Ali+%F0%9F%91%8B;Mahasiswa+Informatika;Web+Developer+%7C+Ngoprek+AI)
 
-Mahasiswa Informatika dari Indonesia yang suka membangun aplikasi web dan bereksperimen dengan machine learning.
+Mahasiswa Informatika dari Indonesia yang suka membangun aplikasi web dan belajar hal baru  
 
 </div>
 
